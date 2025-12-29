@@ -1,4 +1,4 @@
-# 🧠 Desafio de Lógica de Programação
+# 🧠 Desafio de Lógica de Programação DIO.ME
 
 Este repositório contém a solução de um **desafio de lógica de programação**, desenvolvido com o objetivo de praticar conceitos fundamentais da programação utilizando **JavaScript**.
 
